@@ -1,6 +1,6 @@
 ---
 name: "Hilario José Bandrés Sasal"
-bio: "Experto en Soluciones SSE en Telefónica. Interesado en seguridad ofensiva."
+bio: "Experto en Soluciones SSE. Interesado en seguridad ofensiva."
 avatar: ""
 website: ""
 github: ""
@@ -11,7 +11,7 @@ lang: "es"
 
 ¡Hola! 👋 Soy **Hilario José Bandrés Sasal**.
 
-Actualmente trabajo como Experto en Soluciones SSE en Telefónica, con foco en plataformas SASE como Netskope y Zscaler. Mi día a día gira en torno al diseño, despliegue y troubleshooting de soluciones de seguridad de acceso en entornos corporativos.
+Actualmente trabajo como Experto en Soluciones SSE, con foco en plataformas SASE como Netskope y Zscaler. Mi día a día gira en torno al diseño, despliegue y troubleshooting de soluciones de seguridad de acceso en entornos corporativos.
 
 Mi interés principal dentro de la ciberseguridad es la seguridad ofensiva aplicada a este tipo de plataformas: entender cómo funcionan por dentro, identificar configuraciones que abren la puerta a un atacante y documentar técnicas de auditoría que ayuden a otros profesionales a encontrar los mismos problemas. También me interesan el red team sobre Active Directory y la seguridad en entornos cloud.
 
